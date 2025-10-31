@@ -6,9 +6,9 @@
 
 ### 🌟 About Me  
 
-Hi there! 👋 I’m Vishwas Verma, a passionate B.Tech student exploring the world of software development.
-I enjoy building creative projects, solving coding challenges, and learning modern technologies that help me grow as a developer.
-
+💻 I’m a passionate **Computer Science student** exploring the world of **Web Development** and **Problem Solving**.  
+⚡ I love building creative, responsive web apps using **React** and **Node.js**, and learning technologies that challenge me.  
+🎯 Currently improving my **Data Structures & Algorithms (C++)** and mastering **MERN stack** development.
 ---
 
 ### 🛠️ Tech Stack  
