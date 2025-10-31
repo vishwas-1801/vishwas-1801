@@ -1,7 +1,6 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=👋+Hey+there!+I'm+Vishwas+Verma;💻+B.Tech+Student+%7C+Web+Developer;🧠+DSA+Learner+%26+Tech+Explorer" alt="Typing SVG" />
-</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vishwas Verma</span>!</h1>
+<h3 align="center">🚀 B.Tech Student | Web Developer | DSA Learner</h3>
 
 ### 🌟 About Me  
 
